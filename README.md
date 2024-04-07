@@ -1,6 +1,7 @@
 # Python and Security
 
-Python exercises from the [CRPYA](https://github.com/CyberSecurityUP/CRPYA)
+Seja muito bem vindo ao meu repositório com scripts básicos de segurança da informação em Python3.
+Exercícios originários da [CRPYA](https://github.com/CyberSecurityUP/CRPYA)
 
 ## Modulo 1
 
@@ -56,3 +57,8 @@ Python exercises from the [CRPYA](https://github.com/CyberSecurityUP/CRPYA)
 - Ridabdi shellcode com Python e MSFVenom
 - Clonando site usando pywebcopy
 - Conhecendo bibliotecas úteis para Hackers.
+
+# Arquivado
+Este repositório está arquivado por não ter motivos para continuar, caso eu vá fazer outros scripts em python novamente não sera necessario adicionar aqui pois o escopo dos exercícios são únicos. 
+
+Agradeço pela vizualização.
