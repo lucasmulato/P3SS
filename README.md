@@ -1,4 +1,4 @@
-# Python and Security
+# Python3 Security Scripts
 
 Seja muito bem vindo ao meu repositório com scripts básicos de segurança da informação em Python3.
 Exercícios originários da [CRPYA](https://github.com/CyberSecurityUP/CRPYA)
@@ -59,6 +59,6 @@ Exercícios originários da [CRPYA](https://github.com/CyberSecurityUP/CRPYA)
 - Conhecendo bibliotecas úteis para Hackers.
 
 # Arquivado
-Este repositório está arquivado por não ter motivos para continuar, caso eu vá fazer outros scripts em python novamente não sera necessario adicionar aqui pois o escopo dos exercícios são únicos. 
+Este repositório está arquivado por não ter motivos para continuar, caso eu vá fazer outros scripts em python novamente não sera necessario adicionar aqui pois o escopo é somente este. 
 
 Agradeço pela vizualização.
